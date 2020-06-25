@@ -1,0 +1,20 @@
+h1
+{ font-family: cursive, "Times New Roman";
+  font-size: 45px;
+  font-style: oblique;
+  color: brown;
+  text-indent: 450px;
+}
+
+h2
+{
+    font-family: cursive;
+    font-size: 35px;
+    font-style: unset;
+    color: slategrey;
+}
+ .box {
+     height: 100%;
+     width: 100%;
+     background-color: skyblue;
+ }
