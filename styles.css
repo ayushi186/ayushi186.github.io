@@ -1,5 +1,6 @@
 h1
 { font-family: cursive, "Times New Roman";
+  background-color: yellowgreen;
   font-size: 45px;
   font-style: oblique;
   color: brown;
@@ -17,4 +18,18 @@ h2
      height: 100%;
      width: 100%;
      background-color: skyblue;
+ }
+
+
+ body{
+  font-family: 'Open Sans', sans-serif;
+  margin: 20px;
+
+
+ }
+
+ footer{
+  height: 50;
+  text-align: center;
+
  }
